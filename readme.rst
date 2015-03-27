@@ -27,10 +27,10 @@ Client or server-side, or both, $this->xmlrpc->set_debug(true);
 Important Stuff
 ***************
 
-controllers/Welcome The homepage, with XML-RPC client
-controllers/Service The XML-RPC server
-models/Airline  A simple data model accessed locally if without XML-RPC and remotely if with XML-RPC
-/data           XML document with flight schedule data, to avoid using an RDB
+-   controllers/Welcome The homepage, with XML-RPC client
+-   controllers/Service The XML-RPC server
+-   models/Airline  A simple data model accessed locally if without XML-RPC and remotely if with XML-RPC
+-   /data           XML document with flight schedule data, to avoid using an RDB
 
 *******
 License
