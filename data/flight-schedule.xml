@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<schedule>
+	<flight number="107" food="E90" frequency="Daily" stops="0">
+		<departure time="0700">Toronto</departure>
+		<arrival time="0912">Calgary</arrival>
+	</flight>
+	<flight number="117" food="321" frequency="Daily" stops="0">
+		<departure time="0800">Toronto</departure>
+		<arrival time="1012">Calgary</arrival>
+	</flight>
+	<flight number="119" food="321" frequency="Daily" stops="0">
+		<departure time="1000">Toronto</departure>
+		<arrival time="1212">Calgary</arrival>
+	</flight>
+	<flight number="173" food="320" frequency="Daily" stops="0">
+		<departure time="1200">Toronto</departure>
+		<arrival time="1412">Calgary</arrival>
+	</flight>
+	<flight number="121" food="321" frequency="X7" stops="0">
+		<departure time="1400">Toronto</departure>
+		<arrival time="1612">Calgary</arrival>
+	</flight>
+	<flight number="121" food="E90" frequency="7" stops="0">
+		<departure time="1410">Toronto</departure>
+		<arrival time="1622">Calgary</arrival>
+	</flight>
+	<flight number="125" food="E90" frequency="Daily" stops="0">
+		<departure time="1600">Toronto</departure>
+		<arrival time="1812">Calgary</arrival>
+	</flight>
+	<flight number="1165" food="E90" frequency="7" stops="0">
+		<departure time="1730">Toronto</departure>
+		<arrival time="1942">Calgary</arrival>
+	</flight>
+	<flight number="133" food="321" frequency="Daily" stops="0">
+		<departure time="1830">Toronto</departure>
+		<arrival time="2042">Calgary</arrival>
+	</flight>
+	<flight number="145" food="E90" frequency="Daily" stops="0">
+		<departure time="2030">Toronto</departure>
+		<arrival time="2242">Calgary</arrival>
+	</flight>
+	<flight number="141" food="E90" frequency="Daily" stops="0">
+		<departure time="2250">Toronto</departure>
+		<arrival time="0102+1">Calgary</arrival>
+	</flight>
+	<flight number="103" food="321" frequency="Daily" stops="0">
+		<departure time="0700">Toronto</departure>
+		<arrival time="0907">Vancouver</arrival>
+	</flight>
+	<flight number="7" food="77W" frequency="Daily" stops="0">
+		<departure time="0800">Toronto</departure>
+		<arrival time="0959">Vancouver</arrival>
+	</flight>
+	<flight number="63" food="763" frequency="Daily" stops="0">
+		<departure time="0830">Toronto</departure>
+		<arrival time="1037">Vancouver</arrival>
+	</flight>
+	<flight number="181" food="319" frequency="Daily" stops="0">
+		<departure time="1000">Toronto</departure>
+		<arrival time="1207">Vancouver</arrival>
+	</flight>
+	<flight number="101" food="321" frequency="Daily" stops="0">
+		<departure time="1200">Toronto</departure>
+		<arrival time="1407">Vancouver</arrival>
+	</flight>
+	<flight number="109" food="321" frequency="Daily" stops="0">
+		<departure time="1400">Toronto</departure>
+		<arrival time="1607">Vancouver</arrival>
+	</flight>
+	<flight number="161" food="763" frequency="Daily" stops="0">
+		<departure time="1600">Toronto</departure>
+		<arrival time="1807">Vancouver</arrival>
+	</flight>
+	<flight number="115" food="763" frequency="X6" stops="0">
+		<departure time="1700">Toronto</departure>
+		<arrival time="1907">Vancouver</arrival>
+	</flight>
+	<flight number="137" food="333" frequency="Daily" stops="0">
+		<departure time="1800">Toronto</departure>
+		<arrival time="2004">Vancouver</arrival>
+	</flight>
+	<flight number="137" food="763" frequency="3" stops="0">
+		<departure time="1800">Toronto</departure>
+		<arrival time="2007">Vancouver</arrival>
+	</flight>
+	<flight number="33" food="77L" frequency="Daily" stops="0">
+		<departure time="2015">Toronto</departure>
+		<arrival time="2214">Vancouver</arrival>
+	</flight>
+	<flight number="151" food="320" frequency="Daily" stops="0">
+		<departure time="2250">Toronto</departure>
+		<arrival time="0057+1">Vancouver</arrival>
+	</flight>
+	<flight number="202" food="E90" frequency="Daily" stops="0">
+		<departure time="0700">Vancouver</departure>
+		<arrival time="0919">Calgary</arrival>
+	</flight>
+	<flight number="204" food="E90" frequency="Daily" stops="0">
+		<departure time="0800">Vancouver</departure>
+		<arrival time="1019">Calgary</arrival>
+	</flight>
+	<flight number="206" food="E90" frequency="Daily" stops="0">
+		<departure time="0900">Vancouver</departure>
+		<arrival time="1119">Calgary</arrival>
+	</flight>
+	<flight number="208" food="E90" frequency="Daily" stops="0">
+		<departure time="1000">Vancouver</departure>
+		<arrival time="1219">Calgary</arrival>
+	</flight>
+	<flight number="210" food="E90" frequency="Daily" stops="0">
+		<departure time="1100">Vancouver</departure>
+		<arrival time="1319">Calgary</arrival>
+	</flight>
+	<flight number="212" food="E90" frequency="X7" stops="0">
+		<departure time="1200">Vancouver</departure>
+		<arrival time="1419">Calgary</arrival>
+	</flight>
+	<flight number="212" food="320" frequency="7" stops="0">
+		<departure time="1230">Vancouver</departure>
+		<arrival time="1449">Calgary</arrival>
+	</flight>
+	<flight number="1146" food="E90" frequency="Daily" stops="0">
+		<departure time="1300">Vancouver</departure>
+		<arrival time="1519">Calgary</arrival>
+	</flight>
+	<flight number="216" food="319" frequency="Daily" stops="0">
+		<departure time="1400">Vancouver</departure>
+		<arrival time="1619">Calgary</arrival>
+	</flight>
+	<flight number="218" food="319" frequency="Daily" stops="0">
+		<departure time="1500">Vancouver</departure>
+		<arrival time="1719">Calgary</arrival>
+	</flight>
+	<flight number="220" food="E90" frequency="X67" stops="0">
+		<departure time="1600">Vancouver</departure>
+		<arrival time="1819">Calgary</arrival>
+	</flight>
+	<flight number="220" food="E90" frequency="67" stops="0">
+		<departure time="1610">Vancouver</departure>
+		<arrival time="1829">Calgary</arrival>
+	</flight>
+	<flight number="252" food="E90" frequency="5" stops="0">
+		<departure time="1630">Vancouver</departure>
+		<arrival time="1849">Calgary</arrival>
+	</flight>
+	<flight number="222" food="E90" frequency="X6" stops="0">
+		<departure time="1730">Vancouver</departure>
+		<arrival time="1949">Calgary</arrival>
+	</flight>
+	<flight number="224" food="E90" frequency="Daily" stops="0">
+		<departure time="1830">Vancouver</departure>
+		<arrival time="2049">Calgary</arrival>
+	</flight>
+	<flight number="226" food="E90" frequency="X67" stops="0">
+		<departure time="1945">Vancouver</departure>
+		<arrival time="2204">Calgary</arrival>
+	</flight>
+	<flight number="228" food="E90" frequency="Daily" stops="0">
+		<departure time="2045">Vancouver</departure>
+		<arrival time="2304">Calgary</arrival>
+	</flight>
+	<flight number="230" food="E90" frequency="Daily" stops="0">
+		<departure time="2230">Vancouver</departure>
+		<arrival time="0049+1">Calgary</arrival>
+	</flight>
+	<flight number="108" food="319" frequency="Daily" stops="0">
+		<departure time="0700">Vancouver</departure>
+		<arrival time="1420">Toronto</arrival>
+	</flight>
+	<flight number="142" food="333" frequency="Daily" stops="0">
+		<departure time="0800">Vancouver</departure>
+		<arrival time="1525">Toronto</arrival>
+	</flight>
+	<flight number="34" food="77L" frequency="Daily" stops="0">
+		<departure time="0900">Vancouver</departure>
+		<arrival time="1619">Toronto</arrival>
+	</flight>
+	<flight number="116" food="763" frequency="Daily" stops="0">
+		<departure time="1000">Vancouver</departure>
+		<arrival time="1725">Toronto</arrival>
+	</flight>
+	<flight number="180" food="321" frequency="Daily" stops="0">
+		<departure time="1130">Vancouver</departure>
+		<arrival time="1855">Toronto</arrival>
+	</flight>
+	<flight number="132" food="321" frequency="Daily" stops="0">
+		<departure time="1230">Vancouver</departure>
+		<arrival time="1955">Toronto</arrival>
+	</flight>
+	<flight number="64" food="763" frequency="Daily" stops="0">
+		<departure time="1330">Vancouver</departure>
+		<arrival time="2055">Toronto</arrival>
+	</flight>
+	<flight number="148" food="321" frequency="X6" stops="0">
+		<departure time="1430">Vancouver</departure>
+		<arrival time="2155">Toronto</arrival>
+	</flight>
+	<flight number="148" food="320" frequency="6" stops="0">
+		<departure time="1500">Vancouver</departure>
+		<arrival time="2225">Toronto</arrival>
+	</flight>
+	<flight number="8" food="77W" frequency="Daily" stops="0">
+		<departure time="1620">Vancouver</departure>
+		<arrival time="2339">Toronto</arrival>
+	</flight>
+	<flight number="156" food="321" frequency="Daily" stops="0">
+		<departure time="2230">Vancouver</departure>
+		<arrival time="0555+1">Toronto</arrival>
+	</flight>
+	<flight number="162" food="321" frequency="Daily" stops="0">
+		<departure time="2330">Vancouver</departure>
+		<arrival time="0655+1">Toronto</arrival>
+	</flight>
+	<flight number="162" food="321" frequency="X56" stops="0">
+		<departure time="2330">Vancouver</departure>
+		<arrival time="0655+1">Toronto</arrival>
+	</flight>
+	<flight number="162" food="321" frequency="X6" stops="0">
+		<departure time="2330">Vancouver</departure>
+		<arrival time="0655+1">Toronto</arrival>
+	</flight>
+	<flight number="146" food="319" frequency="Daily" stops="0">
+		<departure time="0010">Calgary</departure>
+		<arrival time="0550">Toronto</arrival>
+	</flight>
+	<flight number="174" food="320" frequency="Daily" stops="0">
+		<departure time="0700">Calgary</departure>
+		<arrival time="1240">Toronto</arrival>
+	</flight>
+	<flight number="122" food="320" frequency="Daily" stops="0">
+		<departure time="0800">Calgary</departure>
+		<arrival time="1340">Toronto</arrival>
+	</flight>
+	<flight number="110" food="E90" frequency="Daily" stops="0">
+		<departure time="1000">Calgary</departure>
+		<arrival time="1540">Toronto</arrival>
+	</flight>
+	<flight number="164" food="321" frequency="Daily" stops="0">
+		<departure time="1115">Calgary</departure>
+		<arrival time="1655">Toronto</arrival>
+	</flight>
+	<flight number="128" food="E90" frequency="Daily" stops="0">
+		<departure time="1315">Calgary</departure>
+		<arrival time="1855">Toronto</arrival>
+	</flight>
+	<flight number="130" food="E90" frequency="Daily" stops="0">
+		<departure time="1515">Calgary</departure>
+		<arrival time="2055">Toronto</arrival>
+	</flight>
+	<flight number="140" food="E90" frequency="Daily" stops="0">
+		<departure time="1615">Calgary</departure>
+		<arrival time="2155">Toronto</arrival>
+	</flight>
+	<flight number="134" food="319" frequency="Daily" stops="0">
+		<departure time="1815">Calgary</departure>
+		<arrival time="2355">Toronto</arrival>
+	</flight>
+	<flight number="203" food="E90" frequency="Daily" stops="0">
+		<departure time="0700">Calgary</departure>
+		<arrival time="0728">Vancouver</arrival>
+	</flight>
+	<flight number="205" food="E90" frequency="Daily" stops="0">
+		<departure time="0810">Calgary</departure>
+		<arrival time="0838">Vancouver</arrival>
+	</flight>
+	<flight number="207" food="320" frequency="Daily" stops="0">
+		<departure time="0910">Calgary</departure>
+		<arrival time="0938">Vancouver</arrival>
+	</flight>
+	<flight number="1147" food="E90" frequency="Daily" stops="0">
+		<departure time="1010">Calgary</departure>
+		<arrival time="1038">Vancouver</arrival>
+	</flight>
+	<flight number="211" food="E90" frequency="Daily" stops="0">
+		<departure time="1110">Calgary</departure>
+		<arrival time="1138">Vancouver</arrival>
+	</flight>
+	<flight number="213" food="E90" frequency="Daily" stops="0">
+		<departure time="1210">Calgary</departure>
+		<arrival time="1238">Vancouver</arrival>
+	</flight>
+	<flight number="215" food="321" frequency="Daily" stops="0">
+		<departure time="1310">Calgary</departure>
+		<arrival time="1338">Vancouver</arrival>
+	</flight>
+	<flight number="217" food="E90" frequency="X7" stops="0">
+		<departure time="1410">Calgary</departure>
+		<arrival time="1438">Vancouver</arrival>
+	</flight>
+	<flight number="219" food="320" frequency="Daily" stops="0">
+		<departure time="1510">Calgary</departure>
+		<arrival time="1538">Vancouver</arrival>
+	</flight>
+	<flight number="221" food="E90" frequency="X6" stops="0">
+		<departure time="1610">Calgary</departure>
+		<arrival time="1638">Vancouver</arrival>
+	</flight>
+	<flight number="223" food="E90" frequency="Daily" stops="0">
+		<departure time="1710">Calgary</departure>
+		<arrival time="1738">Vancouver</arrival>
+	</flight>
+	<flight number="225" food="E90" frequency="X7" stops="0">
+		<departure time="1810">Calgary</departure>
+		<arrival time="1838">Vancouver</arrival>
+	</flight>
+	<flight number="227" food="E90" frequency="Daily" stops="0">
+		<departure time="1910">Calgary</departure>
+		<arrival time="1938">Vancouver</arrival>
+	</flight>
+	<flight number="235" food="E90" frequency="7" stops="0">
+		<departure time="2030">Calgary</departure>
+		<arrival time="2058">Vancouver</arrival>
+	</flight>
+	<flight number="229" food="E90" frequency="Daily" stops="0">
+		<departure time="2110">Calgary</departure>
+		<arrival time="2138">Vancouver</arrival>
+	</flight>
+	<flight number="231" food="E90" frequency="Daily" stops="0">
+		<departure time="2255">Calgary</departure>
+		<arrival time="2323">Vancouver</arrival>
+	</flight>
+</schedule>
