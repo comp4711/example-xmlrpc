@@ -1,44 +1,42 @@
-######################################
-Lab 7 Starter Project - XML Processing
-######################################
-
-This is the starter project for Comp4711 Tutorial/Lab 7.
+###############################
+CodeIgniter Example for XML-RPC
+###############################
 
 **************
 Intended Usage
 **************
 
-Fork this project.
-Clone it locally.
-Enhance it per tutorial 6.
+Fork/clone this project, or else just download it.
+Play.
 
 *****
 Setup
 *****
 
-n/a
+Assumed that the CI system folder is in '../system3';
+if not, tailor your index.php.
 
 *****
 F.A.Q
 *****
 
-How can I test if a string ends in a specific substring?
-There is a built in function in PHP to do exactly that.
-  substr_compare($str, $test, strlen($str)-strlen($test), strlen($test)) === 0;
+How do I debug my server-side stuff?
+Client or server-side, or both, $this->xmlrpc->set_debug(true);
 
 ***************
-Project Folders
+Important Stuff
 ***************
 
-/assets         media
-/data           XML & related documents
+controllers/Welcome The homepage, with XML-RPC client
+controllers/Service The XML-RPC server
+models/Airline  A simple data model accessed locally if without XML-RPC and remotely if with XML-RPC
+/data           XML document with flight schedule data, to avoid using an RDB
 
 *******
 License
 *******
 
-Please see the `license
-agreement <http://codeigniter.com/userguide3/license.html>`_
+Please see the `license agreement <http://codeigniter.com/userguide3/license.html>`_
 
 *********
 Resources
@@ -55,8 +53,9 @@ Resources
 Acknowledgement
 ***************
 
-This project (such as it is) was written by James Parry, Instructor in Computer Systems
-Technology at the British Columbia Institute of Technology,
+This project (such as it is) was written by James Parry, 
+Instructor in Computer Systems Technology 
+at the British Columbia Institute of Technology,
 and Project Lead for CodeIgniter.
 
 CodeIgniter is a project of B.C.I.T.
