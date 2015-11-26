@@ -1,6 +1,6 @@
 <?php
 if (!defined('APPPATH'))
-    exit('No direct script access allowed');
+	exit('No direct script access allowed');
 /**
  * views/template.php
  *
@@ -25,10 +25,10 @@ if (!defined('APPPATH'))
                 <div class="navbar-inner">
                     <a class="brand" href="/"><img src="/assets/images/logo.png"/></a>
                     <h1>{title}</h1>
-		</div>
+				</div>
             </div>           
             <div id="content">
-                
+
                 {content}
             </div>
             <div id="footer" class="span12">
