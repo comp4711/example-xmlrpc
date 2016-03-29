@@ -1,0 +1,26 @@
+<!-- Structure of an XML-RPC request/response wrapper -->
+
+<!ELEMENT methodCall (methodName,params?)>
+<!ELEMENT methodName (#PCDATA)>
+<!ELEMENT params (param*)>
+<!ELEMENT param (value)>
+
+<!ELEMENT value (#PCDATA|int|boolean|string|dateTime.iso8601|
+double|base64|struct|array)*>
+
+<!ELEMENT int (#PCDATA)>
+<!ELEMENT boolean (#PCDATA)>
+<!ELEMENT string (#PCDATA)>
+<!ELEMENT dateTime.iso8601 (#PCDATA)>
+<!ELEMENT double (#PCDATA)>
+<!ELEMENT base64 (#PCDATA)>
+
+<!ELEMENT struct (member*)>
+<!ELEMENT member (name,value)>
+<!ELEMENT name (#PCDATA)>
+
+<!ELEMENT array (data)>
+<!ELEMENT data (value*)>
+
+<!ELEMENT methodResponse (params|fault)>
+<!ELEMENT fault (value)>
