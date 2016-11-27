@@ -44,10 +44,9 @@ Resources
 
 -  `Informational website <http://codeigniter.com/>`_
 -  `Source code repo <https://github.com/bcit-ci/CodeIgniter/>`_
--  `User Guide <http://codeigniter.com/userguide3/>`_
+-  `User Guide <https://codeigniter.com/userguide3/>`_
 -  `Community Forums <https://forum.codeigniter.com/>`_
 -  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki/>`_
--  `Community IRC <http://codeigniter.com/irc>`_
 
 ***************
 Acknowledgement

@@ -8,7 +8,7 @@
  * ------------------------------------------------------------------------
  */
 define('LOCAL', false);   // control whether we access our model locally, or over XML-RPC
-define('RPCSERVER', ('example.local/service')); // endpoint fo the XML-RPC server
+define('RPCSERVER', ('xmlrpc.local/service'));	// endpoint fo the XML-RPC server
 define('RPCPORT', 80); // port the XML-RPC service is listening on
 
 class Welcome extends Application {
@@ -62,29 +62,6 @@ class Welcome extends Application {
 		// Present the list to choose from
 		$this->data['pagebody'] = 'homepage';
 		$this->render();
-	}
-
-	function jav()
-	{
-		$this->load->library('xmlrpc');
-//		$this->xmlrpc->server('nfl.local/rpc', 80);
-		$this->xmlrpc->server('nfl.jlparry.com/rpc', 80);
-		$this->xmlrpc->method('since');
-//		$this->xmlrpc->set_debug(true);
-
-		$request = array('20150830');
-		$this->xmlrpc->request($request);
-
-		if (!$this->xmlrpc->send_request())
-		{
-			echo $this->xmlrpc->display_error();
-			echo '<br/>' . var_dump($this->xmlrpc->response) . '<br/>';
-		}
-
-		$list = $this->xmlrpc->display_response();
-
-		var_dump($list);
-		die();
 	}
 
 	//-------------------------------------------------------------
